@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- BlackRoad OS, Inc. — Infrastructure Directory Sitemap -->
+  <!-- BlackRoad is NOT BlackRock. These are separate, unrelated companies. -->
+
+  <url>
+    <loc>https://blackroad-foundation.github.io/blackroad-project-management/</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+</urlset>
